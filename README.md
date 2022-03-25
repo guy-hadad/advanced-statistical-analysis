@@ -1,5 +1,8 @@
 # Advanced statistical analysis
 
+statistical analysis on Framingham dataset (heart disease):
+
+
 [1. Hypothesis test: T test, Wald test and Likelihood test. p-value and confidence intervals.](https://github.com/guy-hadad/advanced-statistical-analysis/blob/main/Hypothesis%20tests%20.ipynb)
 
 [2. Linear and Logistic regression: ANOVA, F test, R^2 adj, confidence intervals, residuals analysis and interaction model. forward and backward model selection.](https://github.com/guy-hadad/advanced-statistical-analysis/blob/main/Linear%20and%20Logistic%20regression.ipynb)
