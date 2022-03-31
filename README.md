@@ -11,6 +11,6 @@ statistical analysis on Framingham dataset (heart disease):
 
 [4. The Bayesian method using Bootstrap and Jeffrey prior.](https://github.com/guy-hadad/advanced-statistical-analysis/blob/main/The%20Bayesian%20method%20.ipynb)
 
-
+[5. Missing data: regression imutation, multiple imutation and IPW using bootstrap ](https://github.com/guy-hadad/advanced-statistical-analysis/blob/main/missing%20data.ipynb)
 
 
